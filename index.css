@@ -1,11 +1,21 @@
- .nav-item{
-    padding-left: 22px;
-}  
-  .badge-pill{
-    width: 150px;
-    height:38px;
-    margin-left:20px; 
-    
-} 
+.img_logo{
+    height: 30px;
+}
 
+#navbarNav{
+    margin-left: 50px;
+}
+
+.nav-item{
+    padding-left: 20px;
+}
+
+.nav-link{
+    margin-left: 10px;
+}
+
+/* .badge-pill{
+    height: 50px;
+    width: 150px;
+} */
 
