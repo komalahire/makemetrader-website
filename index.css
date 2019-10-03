@@ -2,20 +2,43 @@
     height: 30px;
 }
 
-#navbarNav{
-    margin-left: 50px;
+
+
+ .nav-link{
+    margin-left: 20px;
+    font-size: 20px;
+    
+} 
+
+
+
+.text-right .btn_color{
+    border-radius: 40px;
+    margin-right: 90px;
 }
 
-.nav-item{
-    padding-left: 20px;
+
+.nav_log{
+    margin-right:30px;  
+
 }
 
-.nav-link{
-    margin-left: 10px;
+.content_midal{
+background-color: black;
 }
 
-/* .badge-pill{
-    height: 50px;
-    width: 150px;
-} */
+.text-eriya{
+    margin-top: 90px;
+
+}
+
+ /* .navbar-nav {
+    margin-right:80px;
+     */
+/* }
+@media(max-width:1000px){
+    .img_logo{
+        display:none;
+    }  
+}  */
 
