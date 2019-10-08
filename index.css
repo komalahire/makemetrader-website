@@ -60,7 +60,140 @@ position: relative;
     background-color: beige;
 }
 
+.medal-secand{
+    margin-top: 0px;
+}
 
+.text-center{
+
+    text-align:center;
+
+}
+
+.text-phone{
+    margin-top: 40px;
+    
+}
+
+ .medal-cantan{
+
+   background-color:#F4F0EB;
+} 
+
+.parage{
+    font-size: 27px;
+    margin-top: 30px
+}
+
+.image{
+    height: 700px;
+}
+
+.textt{
+    text-align:center;
+    padding-top: 60px;
+}
+.text-z{
+    padding-top: 40px;
+
+}
+
+.text-y{
+    text-align:center; 
+}
+
+.text-h{
+    text-align:center; 
+}
+
+
+.mid-secand{
+    margin-top: 35px;
+    font-size: 30px;
+    color: #1a202c;
+    
+}
+
+
+.parag{
+    font-size: 23px;
+    color: #2d3748;
+    margin-left: 40px;
+    margin-top: 30px;
+    
+}
+
+.money-most{
+    font-size: 30px;
+    margin-top:20px;
+    margin-left: 40px;
+
+}
+.mt-2{
+    font-size: 20px;
+    margin-left: 40px;
+}
+.busines{
+    font-size: 15;
+    margin-left: 40px;
+}
+
+.card-text{
+    font-size: 22px;
+    color:#2d3748;
+}
+.name{
+  margin-left: 15px;
+    
+}
+
+.medal-third{
+    margin-top: 48px;
+}
+
+.medal-fourth{
+    margin-top: 80px;
+
+}
+
+.bigtex{
+    margin-top: 30px;
+    text-align: justify;
+    padding-left: 35px;
+    color: white;
+    display:flex
+}
+.sentece{
+    font-size: 17px;
+    text-align:justify;
+    padding-left: 35px;
+    color: white;
+}
+.my-4 {
+    padding-top: 50px;
+    margin-right: 40px;
+
+}
+.footer_last{
+    height: 400px;;
+    background-color:#2a4365;
+    margin-top: 50px;
+    font-size: 0.80rem;
+}
+.footer_tex{
+    padding-top: 80px;
+    color: #e2e8f0;
+}
+.footer_line{
+    float: right;
+    color: azure;
+}
+
+.mr-5 {
+    color: azure;
+    margin-top: 10px;
+    
+}
 
 
  /* .navbar-nav {
@@ -78,3 +211,14 @@ position: relative;
     display:none;
 }
 }
+
+
+@media(max-width:775px){
+    .image{
+      height: 250px;  
+      width: 150px;
+      margin-top: 30px;
+      margin-left: 60px;
+}
+}
+
